@@ -834,11 +834,11 @@ hash = "6eb1af3de4942f2b3b25098a053beb8d6b7322882c27abfb40c372bc4aa1ac10"
 
 [[files]]
 file = "kubejs/client_scripts/remove.js"
-hash = "35a41ce90edb60b73de96aa1f4982ae47d2c895e0915494486e2b915ff137d11"
+hash = "7dcb8ce723f6740be3f984db6e4b7ea676c6d50db2c6a9164b2b900e09bdd1c5"
 
 [[files]]
 file = "kubejs/server_scripts/remove.js"
-hash = "70aac543210fd0d04aa05e06e6a5059d4b171dea0a2ddba582de357543fa1f2b"
+hash = "7cef9d8c0aad1408aa7b9f7d3f1e521321fb1831aaa586c6135ebe149dc04449"
 
 [[files]]
 file = "mods/amendments.pw.toml"
