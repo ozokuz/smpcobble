@@ -1,0 +1,13 @@
+name = "SMPCOBBLE"
+author = "Ozoku"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a93517679ee17580d78065c11ac5e8209d0d335e9ce7256fda3b8f2f10517188"
+
+[versions]
+forge = "47.2.32"
+minecraft = "1.20.1"
