@@ -1,12 +1,12 @@
 name = "SMPCOBBLE"
 author = "Ozoku"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e6142d4e1b9a23a23a0aaeba77925b4e1485122c6207446cb3fcc0836452e85c"
+hash = "bf52fdc162d0b9f042c1159f9d7be3a2a206660912bccfa090213faa4a5286b5"
 
 [versions]
 forge = "47.2.32"
