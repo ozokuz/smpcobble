@@ -876,8 +876,13 @@ hash = "d02b891b8549c4bacda20466c941001255efd7f184f5ff6bd662ef90c9f6de95"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "9ac1ca724e03e33bc78b829ee6299d3f02aadb21c5233f301e157a0a958deb4b"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "b6caef8fb6f8edd11fbb6d26a532e3fafa4ee50fd0ce93c7b4a75b7f520060b3"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
@@ -916,6 +921,11 @@ hash = "790d61116dd3b647cff2d617ffa1439349ee747a662382c2bad916644d547105"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "db682d3c387eff10ff70087bdee0e13bb97f8616c49a8f4c7bb0e3146034a663"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -948,6 +958,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "db99a4245d3c9e6a7d8a56e8017b596c1d8f4c2a904b37ed5a13484432b70ccb"
 metafile = true
 
 [[files]]
@@ -1106,8 +1121,18 @@ hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d216f67d3c4a28449084f6f2a79034a7dc62f861fe9fb48583234c21bbc47e68"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "a19e00d52a5bca57e6b4b3b026094cffedd494b2e1b69149587c4049ccacead0"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "b2f208a76cad06abe320fba893adfeb40e2cc1064e4560155657f2229b2387ab"
 metafile = true
 
 [[files]]
@@ -1173,6 +1198,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
+metafile = true
+
+[[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
 metafile = true
 
 [[files]]
