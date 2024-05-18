@@ -845,8 +845,13 @@ file = "kubejs/server_scripts/remove.js"
 hash = "7cef9d8c0aad1408aa7b9f7d3f1e521321fb1831aaa586c6135ebe149dc04449"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
-hash = "890096db933cb572b5936aa8e563a39c0ec62158d527137ba662e53ce5114502"
+hash = "e0b7d27e7bbd9c1139ca9fc0cd87ad10da6edc540e9c4b86902df0cd25789fd8"
 metafile = true
 
 [[files]]
@@ -1051,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "610c7ff4d8255c86b4262c42e6a9dd027ae08e9a15f54fe12b0d2d3fc400a5be"
+hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
 metafile = true
 
 [[files]]
@@ -1236,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "a19e00d52a5bca57e6b4b3b026094cffedd494b2e1b69149587c4049ccacead0"
+hash = "41221339c3f325d688a025e120c887b2003b76234149b3873236f872e9a48f54"
 metafile = true
 
 [[files]]
@@ -1271,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "25a7dff7d7337e0532a55b99b50ff5c829ecf1ac6467eebcf5ba9362c2099898"
+hash = "d68e3dec94d4da1500d1bdfa4901507d86165ab8ccd6ece218636ebab86b43bc"
 metafile = true
 
 [[files]]
