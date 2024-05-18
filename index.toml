@@ -1050,11 +1050,6 @@ hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
 metafile = true
 
 [[files]]
-file = "mods/destroy.pw.toml"
-hash = "a5b0f85c1e1c585e2e38d2ab902340647b5d59ed83c0bf12f7d17e6d8f48d078"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
 metafile = true
