@@ -57,6 +57,10 @@ file = "config/openloader/data/CreateChippedCutting312051.zip"
 hash = "aed36dee85c7039add90586b0b9cffe65d01448b617df9e07ff2d4699143adc1"
 
 [[files]]
+file = "config/openloader/data/custom_nether_portals.zip"
+hash = "47ce331c3fc111c186e870ff6f6118573f087c0365e762f8fe2f6b769ae486c4"
+
+[[files]]
 file = "config/openloader/data/more_mob_heads/data/minecraft/loot_tables/entities/allay.json"
 hash = "783be9f94b45f9921a701757a369165b5fcc722678643c3d8de4633ce2e9b2a5"
 
