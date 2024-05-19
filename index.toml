@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "59eebaa85ea57c843783c8040fa8928d0c146507d0cd60e091d2440f175382e4"
+hash = "c8d6771bfd65b948b94f3a56051c8e00a18615d2fb2ef4a957aef46327cb7b3e"
 
 [[files]]
 file = "config/defaultoptions/extra/config/xaerominimap.txt"
