@@ -21,6 +21,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "7e7343e296bde88a51a789b3fc9bd886098c6b581d45ddfe0f41c8f3cd118a6a"
 
 [[files]]
+file = "config/fml.toml"
+hash = "4c9fd965cd3a28c26a5c709b1cfffee46895f21facd24576f82e637fcacffa7a"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "566f0d51a7c1eba08bd0a20dc00885b5c9e4ac8f9334b7a02e1a47a114ed9fe4"
 
