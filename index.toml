@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "573265f970ac718fa4b646f1b43dd44588c0e1e55a34e2cb2ff1bea5e9157264"
+hash = "09c677f5c83baf5ba5fa27528522283d192eb0ee024955b98954e87f27a0bfc5"
 metafile = true
 
 [[files]]
@@ -1039,12 +1039,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "09d7f5eb0c2b8e318d84fdbdf73ffd82d97c9916554704a452db9f1b69dfa330"
+hash = "df7d19f604ff0661692e1dd14ea4d70d534bd960e536acb9a693b1ec7792433b"
 metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "02889994fc7415a9062547fb8865689491839bfc4ffaeabd870d76c79ae6956a"
+hash = "89ba7150699a0ce145ee99b5f7fa1254694e6821fa13d000d0dcd6b8fa522a85"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d64f9f2bec28a62c595d5be6c34bc11bd77970ddbcfc81cdafe6a4b4eabbc731"
+hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
 metafile = true
 
 [[files]]
@@ -1314,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d68e3dec94d4da1500d1bdfa4901507d86165ab8ccd6ece218636ebab86b43bc"
+hash = "f2ec19f6c8e7073774a5bc4eec846b534e13d7d88d2c48c2da973dac2312f005"
 metafile = true
 
 [[files]]
@@ -1364,7 +1364,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "560d876a490dde8bdc9851077e3b6e02809c76d472f312c05fdfcc4fe43c23cd"
+hash = "1acbc7abba0a1012489c73c5bfcc692304317cdc03066af009271062d8ee2ec9"
 metafile = true
 
 [[files]]
