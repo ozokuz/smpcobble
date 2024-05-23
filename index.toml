@@ -1138,6 +1138,16 @@ hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "4531972dfb47f64b1e56b0ec00a17c97e2e43bcd2750b377f3ca14183761cd7b"
 metafile = true
@@ -1145,6 +1155,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
+file = "mods/inv-view-forge.pw.toml"
+hash = "49a4528edb49205e71e7e042c97805662560fdcb7d08beb778b0e5b4b184ebd8"
 metafile = true
 
 [[files]]
