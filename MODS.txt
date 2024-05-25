@@ -1,0 +1,126 @@
+AI Improvements
+Amendments
+Apotheosis
+Apotheotic Creation
+Apothic Attributes (AttributesLib)
+AppleSkin
+Architectury API (Fabric/Forge/NeoForge)
+Armourer's Workshop
+Athena
+Balm (Forge Edition)
+Better Animations Collection
+Better Compatibility Checker
+Biomes O' Plenty
+Blueprint
+Botarium
+Building Gadgets
+Chipped
+Chisels & Bits - For Forge
+ChoiceTheorem's Overhauled Village
+Chunk Loaders
+Client Tweaks
+Clumps
+Cobblemon
+Cobblemon Capture XP
+Cobblemon Integrations
+Comforts
+Configured
+Connectivity[Forge/Fabric]
+Controlling
+Corpse
+Crafting Station: JEI Edition
+Crash Utilities
+Create
+Create Central Kitchen
+Create Crafts & Additions
+Create Enchantment Industry
+Create Mechanical Extruder
+Create Ore Excavation
+Create Railways Navigator
+Create: Cobblemon Industrialized
+Create: New Age
+Create: Numismatics
+Create: Steam 'n' Rails
+Cupboard
+Curios API
+Decorative Blocks
+Default Options
+Embeddium
+Embeddium++
+Exposure
+Farmer's Delight
+Farsight [Forge]
+Fast Leaf Decay
+FastFurnace
+FastSuite
+FastWorkbench
+FerriteCore
+FPS Reducer
+Framework
+FTB Essentials (Forge & Fabric)
+FTB Library (Forge)
+Functional Storage
+Fusion (Connected Textures)
+Inv View Forge/NeoForge
+Inventory Essentials
+Inventory Profiles Next
+Iron Chests: Restocked
+Jade Addons (Forge)
+Jade 🔍
+Just Enough Items (JEI)
+Kotlin for Forge
+KubeJS
+LaserIO
+libIPN
+Lithostitched
+Login Protection[Forge/Fabric]
+Mighty Mail (Forge)
+Mining Gadgets
+ModernFix
+Moonlight Lib
+Mouse Tweaks
+Nature's Compass
+Observable
+Oculus
+Open Loader
+Paragliders
+Patchouli
+Personality
+Placebo
+Pretty Pipes
+Puzzles Lib
+Quark
+Rebind Narrator
+Rechiseled
+Rechiseled: Create
+Resourceful Lib
+Rhino
+Searchables
+Shrink.
+Simple Backups
+Sophisticated Backpacks
+Sophisticated Core
+spark
+SuperMartijn642's Config Lib
+SuperMartijn642's Core Lib
+Supplementaries
+TerraBlender (Forge)
+Titanium
+Toast Control
+Torchmaster
+Towers of the Wild Modded
+Trash Cans
+Waystones
+Xaero's Minimap
+Xaero's World Map
+YUNG's API (Forge)
+YUNG's Better Desert Temples (Forge)
+YUNG's Better Dungeons (Forge)
+YUNG's Better End Island (Forge)
+YUNG's Better Jungle Temples (Forge)
+YUNG's Better Mineshafts (Forge)
+YUNG's Better Nether Fortresses (Forge)
+YUNG's Better Ocean Monuments (Forge)
+YUNG's Better Strongholds (Forge)
+YUNG's Better Witch Huts (Forge)
+Zeta
