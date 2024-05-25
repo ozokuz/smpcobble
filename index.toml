@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/inv-view-forge.pw.toml"
-hash = "49a4528edb49205e71e7e042c97805662560fdcb7d08beb778b0e5b4b184ebd8"
+hash = "cac27ef057e2a1b2332e831dd526ed79fd8d2fc752a26d1a3a10adc7c0cc24f8"
 metafile = true
 
 [[files]]
@@ -1175,6 +1175,11 @@ metafile = true
 [[files]]
 file = "mods/ironchests.pw.toml"
 hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
 metafile = true
 
 [[files]]
