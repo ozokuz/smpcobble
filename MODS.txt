@@ -57,8 +57,6 @@ FastWorkbench
 FerriteCore
 FPS Reducer
 Framework
-FTB Essentials (Forge & Fabric)
-FTB Library (Forge)
 Functional Storage
 Fusion (Connected Textures)
 Inv View Forge/NeoForge
