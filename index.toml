@@ -948,6 +948,11 @@ hash = "d5d15e9ecea179026322633a340e6bf2668d5a7a66cf666829ffc3c732378380"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "639857fb6b3f29345a30ea5e727a15ec7c3c63a8559d743bf9807155f8a311ab"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "f71088a0f4930a32f27756a6fc6db26a88ead8bf5e236159c52c98868e26ed27"
 metafile = true
@@ -1038,11 +1043,6 @@ hash = "70a38138809b0d8de02a22b050a599a977c7f6877fad8d3583512f55100f81fb"
 metafile = true
 
 [[files]]
-file = "mods/create-power-loader.pw.toml"
-hash = "df7d19f604ff0661692e1dd14ea4d70d534bd960e536acb9a693b1ec7792433b"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "89ba7150699a0ce145ee99b5f7fa1254694e6821fa13d000d0dcd6b8fa522a85"
 metafile = true
@@ -1090,6 +1090,11 @@ metafile = true
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
 hash = "871acd627e682cfd9786d0574fb09ab0e9c07493b493c5d8747e243292477256"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "1bd064b812416bc467c2b236cc2904f00f9d36b0e994f5623d3e31897a1eb2d3"
 metafile = true
 
 [[files]]
