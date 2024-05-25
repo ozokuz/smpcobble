@@ -1069,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "db99a4245d3c9e6a7d8a56e8017b596c1d8f4c2a904b37ed5a13484432b70ccb"
+hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
 metafile = true
 
 [[files]]
@@ -1264,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "1cd365278de0da9556eea435b41d7c4adeab251e80ea6be22b6ba60debfaf5b0"
+hash = "f1a2d3a570a6ce0722f0136b4b57371fc067ad7f329e1df9cd3cd765619ac759"
 metafile = true
 
 [[files]]
@@ -1334,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f2ec19f6c8e7073774a5bc4eec846b534e13d7d88d2c48c2da973dac2312f005"
+hash = "a8c6276de4956d17d877b375c11faddb35c1d0ecf5364c47be028260d4702b00"
 metafile = true
 
 [[files]]
@@ -1344,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "96061d270d73559c6f94dc3e448faaacd0724b2f823880c3a3f56de6f9bcc218"
+hash = "bac0e6557f54b428ec06c687957469f2d1d01d71bc9f9c5adb4696ce6651c6f2"
 metafile = true
 
 [[files]]
