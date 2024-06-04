@@ -1018,11 +1018,6 @@ hash = "9cd251a37680c6648f56c0fade3f9afb15b25adde0ce5d7cc238f6efd049afaf"
 metafile = true
 
 [[files]]
-file = "mods/create-cobblemon-industrialized.pw.toml"
-hash = "733e06348ade673d0a6d724e0921f0de3f8b4e5fb4d718f5851f417c03932680"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
 metafile = true
@@ -1040,11 +1035,6 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "70a38138809b0d8de02a22b050a599a977c7f6877fad8d3583512f55100f81fb"
-metafile = true
-
-[[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "89ba7150699a0ce145ee99b5f7fa1254694e6821fa13d000d0dcd6b8fa522a85"
 metafile = true
 
 [[files]]
